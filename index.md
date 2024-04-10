@@ -10,7 +10,7 @@
 -->
 ### Reference
 
-[go](thlevansi.hcm.edu.vn){:target="_blank" rel="noopener"}
+[TH LVS](https://thlevansi.hcm.edu.vn){:target="_blank" rel="noopener"}
 
 [Link to Cayman help](./cayman.html).
 
